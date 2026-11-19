@@ -1,1 +1,1 @@
-export{Y as DESKTOP_APP,X as androidAppVersion,Z as apkUrl}from"./menus-6ClcUL00-mwc3y990.js?v=6fa619420e3d";
+export{Y as DESKTOP_APP,X as androidAppVersion,Z as apkUrl}from"./menus-6ClcUL00-mwc3y990.js?v=b4612adbc5b8";
